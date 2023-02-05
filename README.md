@@ -1,7 +1,7 @@
 # hello-world
 A programming rite of passage. Hello world!
 
-My name is Carmen! I often utilize usernames with the word "scribendi" in it. 
+I often utilize usernames with the word "scribendi" in it. 
 
 Scribendi is a latin word meaning "to write". I often pair scribendi with "cacoethes". Cacoethes means an insatiable urge.
 
